@@ -1,1 +1,1 @@
-infisical/infisical:latest
+infisical/infisical:latest-postgres
