@@ -1,3 +1,1 @@
-infisical/infisical:v0.137.0-postgres
-redis:alpine
-postgres:14-alpine
+vault:latest
