@@ -1,1 +1,1 @@
-infisical/infisical:v1.3.4-postgres
+infisical/infisical:v0.137.0-postgres
