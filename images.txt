@@ -1,1 +1,1 @@
-vault:latest
+hashicorp/vault:latest
