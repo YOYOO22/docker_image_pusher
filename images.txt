@@ -1,1 +1,1 @@
-infisical/infisical:v0.87.0
+infisical/infisical:latest
