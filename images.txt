@@ -1,1 +1,1 @@
-hashicorp/vault:latest
+ghcr.io/wojiushixiaobai/gmssl_nginx:latest
